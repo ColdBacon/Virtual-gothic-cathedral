@@ -1,0 +1,8 @@
+C:\Users\bogus\Downloads\pl_szkielet_01_win\pl_szkielet_01_win\Debug\pl_szkielet_01_win.exe
+C:\Users\bogus\Downloads\pl_szkielet_01_win\pl_szkielet_01_win\Debug\pl_szkielet_01_win.pdb
+C:\Users\bogus\OneDrive\Pulpit\katedra\pl_szkielet_01_win\pl_szkielet_01_win\Debug\pl_szkielet_01_win.exe
+C:\Users\bogus\OneDrive\Pulpit\katedra\pl_szkielet_01_win\pl_szkielet_01_win\Debug\pl_szkielet_01_win.pdb
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\pl_szkielet_01_win\Debug\pl_szkielet_01_win.exe
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\pl_szkielet_01_win\Debug\pl_szkielet_01_win.pdb
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\Debug\pl_szkielet_01_win.exe
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\Debug\pl_szkielet_01_win.pdb

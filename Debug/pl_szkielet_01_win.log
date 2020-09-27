@@ -1,0 +1,12 @@
+﻿  main_file.cpp
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(79,2): warning C4091: "typedef ": zignorowano na lewo od "Mesh" podczas gdy brak deklaracji zmiennej
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(101,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(111,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(121,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(239,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(240,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(244,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(245,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(246,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\main_file.cpp(247,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  pl_szkielet_01_win.vcxproj -> D:\Dokumenty\SEMESTR4\CG\katedra\pl_szkielet_01_win\projekt\Debug\pl_szkielet_01_win.exe
